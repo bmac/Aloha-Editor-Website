@@ -32,7 +32,7 @@
 				<h2>The Aloha Spirit</h2>
 				<img alt="" src="images/aloha-editor-logo.png" style="float:right;width:150px;padding-right:25px"/>
 				<p>Aloha is about passion! The Aloha Editor is designed and made with passion from real passionate people.
-				Aloha Editor's vision is to edit anywhere. We move he user
+				Aloha Editor's vision is to edit anywhere. We move the user
 				to the center of everything. Every action should be completed with the minimum possible
 				interactions. Everything that can be done automatically should be done 
 				automatically. All interactions should react in realtime and give immediate clear feedback
